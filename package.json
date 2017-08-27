@@ -1,0 +1,29 @@
+{
+  "name": "ayak",
+  "version": "0.0.1",
+  "description": "Minimal event router solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "indatawetrust",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  },
+  "dependencies": {
+    "ava": "^0.22.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/ayak.git"
+  },
+  "keywords": [
+    "event",
+    "router"
+  ],
+  "bugs": {
+    "url": "https://github.com/indatawetrust/ayak/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/ayak#readme"
+}
